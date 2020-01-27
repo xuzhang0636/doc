@@ -8,6 +8,7 @@
 * reduce
 
 ## ES6
+
 * let & const
 * arrow function
 * template literals
