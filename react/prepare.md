@@ -2,10 +2,10 @@
 
 ## JavaScript
 
-* 'this' key word
-* filter
-* map
-* reduce
+* 'this' key word -done
+* filter - done
+* map - done
+* reduce -done
 
 ## ES6
 
