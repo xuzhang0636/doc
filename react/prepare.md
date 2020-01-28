@@ -11,7 +11,7 @@
 
 * let & const - done
 * arrow function - done
-* template literals - progressing
-* default parameters
+* template literals - done
+* default parameters - progressing
 * object literals
 * rest and spread operators and destructuring assignment.
