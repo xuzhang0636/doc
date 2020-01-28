@@ -9,8 +9,8 @@
 
 ## ES6
 
-* let & const
-* arrow function
+* let & const - done
+* arrow function - progressing
 * template literals
 * default parameters
 * object literals
