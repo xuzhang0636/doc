@@ -10,8 +10,8 @@
 ## ES6
 
 * let & const - done
-* arrow function - progressing
-* template literals
+* arrow function - done
+* template literals - progressing
 * default parameters
 * object literals
 * rest and spread operators and destructuring assignment.
